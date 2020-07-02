@@ -77,4 +77,4 @@ async def laps(ctx):
                     await ctx.send(f'```{fh4TrackList[filter_base].sort_values(by="Time")}```')
 
 
-bot.run('NzI2MDY1MDU5MDYyNjEyMDQx.Xvb8zw.xdmaxSH8SO8aTmXR8oagjl0p8XQ')  # Bot Token Inserted
+bot.run('#insert_your_token_here')  # Bot Token Inserted
